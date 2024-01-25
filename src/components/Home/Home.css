@@ -1,0 +1,45 @@
+/* .home{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+} */
+.homeText{
+    display: flex;
+    align-items: center;
+}
+.banner-img{
+    /* width: 70%;
+    height: 80%; */
+    border-radius: 30%;
+}
+.welcome{
+    color: rgb(225,10,178)!important;
+}
+.homeImg{
+    padding-top: 72px;
+    
+
+}
+.icons {
+    font-size: 30px;
+    padding: 0 10px;
+}
+.icons:hover{
+    color: rgb(225, 10, 178)
+}
+@media screen and (max-width:768px) {
+    .home{
+        height: auto;
+
+    }
+    .homeText{
+        text-align: center;
+        padding-top: 80px;
+    }
+}
+@media screen and (min-width: 769px) {
+    .homeText{
+        padding-left: 80px;
+    }
+}

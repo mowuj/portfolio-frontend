@@ -1,0 +1,44 @@
+[
+    {
+        
+        "name":"Lucky Manufacturer",
+        "img1":"https://i.ibb.co/SX7D3Tk/Screenshot-1.png",
+        "img2":"https://i.ibb.co/88drfdp/Screenshot-3.png",
+        "img3":"https://i.ibb.co/18DKfPc/Screenshot-4.png",
+        "liveSite":"https://lucky-tools-manufacturer.web.app/",
+        "clientSide":"https://github.com/mowuj/Lucky-tools-manufacturer-client",
+        "serverSide":"https://github.com/mowuj/Lucky-tools-manufacturer-server",
+        "sDescription":"Authentication,Admin role,Make Admin,Dashboard,Create and Delete Product,Payment.",
+        "description":"This is a Manufacturer's company-based website. On this website individual roles for admin and user. Users can visit the service page after login. And also can order a product. After orders user needs to pay for this product. The Stripe payment system is used on this website. After successfully paying user gets a transaction id. On this website, users and admins have an individual dashboard. Users see orders and can also delete unpaid orders. And can send a review. Admin dashboard shows manage product where admin can delete any product. There is another option to add products where the admin can add new items. There is another option make admin where admin can make admin from users. Firebase authentication system implements on this website so users can log in with google and also email passwords.Mongo Db used in this website.",
+        "technology":"-React -Daisy Ui -React Router -React Query -React Hooks Form -React Icons -React Toastify -Axios -Stripe -Firebase -Heroku -Mongo Db"
+
+    },
+    {
+        
+        "name":"Fitness Studio",
+        "img1":"https://i.ibb.co/2KrqbSb/Screenshot-7.png",
+        "img2":"https://i.ibb.co/TP7nk8P/Screenshot-1.png",
+        "img3":"https://i.ibb.co/zRLkvYK/Screenshot-4.png",
+        "liveSite":"https://car-inventoy.web.app/",
+        "clientSide":"https://github.com/mowuj/Fittness-Studio",
+        "sDescription":"Authentication ,Dashboard,See all service, Order and remove service,Delete service.",
+        "description":"This is a service provider system-based website. Users can see services without login. But to order a service user has to log in. After the Order user can checkout. Firebase authentication system implements in this so users can sign up with a valid email password. And users have to log in  with sign up email.",
+        "technology":"-React -React Router -React Bootstrap -React Icons -React Toastify  -React Hooks Form -Firebase "
+
+    },
+    {
+        
+        "name":"Car Inventory",
+        "img1":"https://i.ibb.co/qYzWWLt/Screenshot-3.png",
+        "img2":"https://i.ibb.co/vLpzBTd/Screenshot-8.png",
+        "img3":"https://i.ibb.co/0CBy1Kj/Screenshot-6.png",
+        "liveSite": "https://car-inventoy.web.app/",
+        "clientSide": "https://github.com/mowuj/car-inventory-system-clint-side",
+        "serverSide": "https://github.com/mowuj/car-inventory-system",
+        "sDescription": "Authentication ,See all service,Checkout, Order and remove service,Delete service.",
+        "description":"This is a warehouse system-based website. There is an inventory page that shows all products they provide. Users can update the quantity of this product. There is a page My Items that show log-in users added items. And users can delete Items. there is a Mange Inventory page where the admin can delete any user's added items. There is an Add item page where users can add a new item. Firebase authentication system used in this website so user can log in with google and also email password.Mongo DB used in this website.",
+        "technology":"-React -React Router -React Bootstrap -React Icons -React Toastify -Axios -React Hooks Form -Firebase -Heroku -Mongo Db"
+
+    }
+    
+]

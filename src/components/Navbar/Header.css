@@ -1,0 +1,20 @@
+.navbar{
+    background-color: black !important;
+}
+.navbar-dark .navbar-brand{
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(235,14,187) !important;
+}
+.nav-li{
+    padding: 0px 20px;
+    
+}
+.nav-li .nav-li-link{
+    color: white !important;
+    font-weight: bold;
+}
+.nav-li-link:hover{
+    color: rgb(235, 14, 187) !important;
+}

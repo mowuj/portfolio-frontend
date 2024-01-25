@@ -1,0 +1,27 @@
+.contact{
+    background-color: black;
+}
+.contact-title span{
+    color: rgb(211, 23, 111);
+}
+hr{
+    background-image: -webkit-linear-gradient(left,black,white,white,black);
+}
+.contact-form{
+    
+}
+.contact button{
+    color: rgb(211, 23, 111);
+    border: 1px solid rgb(211, 23, 111);
+    background-color: transparent;
+}
+.contact button:hover{
+    color:white;
+    background-color: rgb(211, 23, 111);
+}
+@media screen and (min-width: 769px) {
+    form{
+        width: 50%;
+        margin-left: 280px;
+    }
+}
